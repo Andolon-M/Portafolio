@@ -3,8 +3,8 @@ import { Code, Server, Lightbulb, Languages } from 'lucide-react';
 
 const technicalSkills = [
   'TypeScript', 'React', 'Node.js', 'Next.js', 'Python',
-  'MySQL', 'MongoDB', 'Odoo', 'n8n', 'LangChain',
-  'DevOps', 'Docker', 'Git', 'Laravel'
+  'MySQL', 'PostgreSQL', 'MongoDB', 'Odoo', 'n8n', 'LangChain',
+  'DevOps', 'Docker', 'Git', 'Laravel', 'PHP', 'Java', 'Power Automate', 
 ];
 
 const softSkills = [
@@ -67,7 +67,7 @@ export const SkillsGrid: React.FC = () => {
             <span className="text-2xl">🇺🇸</span>
             <div>
               <span className="block font-medium text-slate-800 dark:text-slate-200">Inglés</span>
-              <span className="text-xs text-slate-500 dark:text-slate-400">Nivel A2</span>
+              <span className="text-xs text-slate-500 dark:text-slate-400">Nivel B1</span>
             </div>
           </div>
         </div>

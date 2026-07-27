@@ -11,18 +11,18 @@ export const ExperienceTimeline: React.FC = () => {
       technologies: ['Odoo', 'Python', 'n8n', 'LangChain', 'OpenAI'],
     },
     {
-      role: 'Desarrollador Full Stack',
+      role: 'Software Developer',
       company: 'Campuslands',
-      period: 'Febrero 2023 - Enero 2024',
-      description: 'Creación de aplicaciones web responsivas y escalables usando tecnologías modernas y bases de datos relacionales y no relacionales. Liderazgo en el desarrollo de microservicios.',
-      technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'MySQL'],
+      period: 'Enero 2025 - Marzo 2026',
+      description: 'Liderazgo de equipo bajo metodologías ágiles (Scrum). Desarrollo de agentes IA con LangChain y sistemas RAG (n8n) para asistencia en ventas y automatización de procesos empresariales.',
+      technologies: ['React', 'Node.js', 'TypeScript', 'LangChain', 'n8n', 'Scrum'],
     },
     {
-      role: 'Interprete Bilingüe Inglés',
-      company: 'Solvo Global',
-      period: 'Octubre 2021 - Diciembre 2022',
-      description: 'Facilitación de comunicación fluida entre clientes hispanohablantes y angloparlantes, traduciendo conceptos técnicos y comerciales con alta precisión.',
-      technologies: ['Inglés C1', 'Comunicación', 'Servicio al Cliente'],
+      role: 'Software Developer',
+      company: 'Solvo',
+      period: 'Julio 2024 - Diciembre 2024',
+      description: 'Desarrollo Full Stack (React, Node, Express, TypeScript) abarcando frontend, backend y procesos de despliegue. Mantenimiento de aplicaciones web en un entorno colaborativo y orientado a resultados.',
+      technologies: ['React', 'Node.js', 'Express', 'TypeScript'],
     },
   ];
 
